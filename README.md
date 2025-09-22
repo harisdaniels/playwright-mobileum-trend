@@ -3,13 +3,11 @@
 This repository contains end-to-end (E2E) tests written using [Playwright](https://playwright.dev/) for web application automation.
 
 ## 📦 Project Structure
-├── tests/ # Test files
-├── pages/ # Page Object Models (optional)
-├── playwright.config.ts # Playwright test configuration
-├── package.json
-└── README.md
-
-
+- `tests/` — Test files
+- `pages/` — Page Object Models 
+- `playwright.config.ts` — Playwright test configuration
+- `package.json` — Project dependencies and scripts
+- `README.md` — Project documentation
 
 ## 📁 Example Test
 ```typescript
